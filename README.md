@@ -13,7 +13,7 @@ Task 2 : Expense Tracker (Console)  Source Code : Section_1_Task_2.py
 Task 3 :  Note Keeper CLI  Source Code : Section_1_Task_3.py
 
 Section 2 :-
-Task 1: Simple Chat App (Local)    Source Code : Section_2_Task_1.py
+Task 1: Simple Chat App (Local)    Folder Name : Section_2_Task_1.py
 Task 2: Student Management System  Source Code : Section_2_Task_2.py
 Task 3: Mini Library System        Source Code : Section_2_Task_3.py
 
